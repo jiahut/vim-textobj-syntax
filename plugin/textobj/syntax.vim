@@ -31,8 +31,8 @@ endif
 
 call textobj#user#plugin('syntax', {
 \      '-': {
-\        'select-a': 'ay',  '*select-a-function*': 'textobj#syntax#select_a',
-\        'select-i': 'iy',  '*select-i-function*': 'textobj#syntax#select_i',
+\        'select-a': 'ah',  '*select-a-function*': 'textobj#syntax#select_a',
+\        'select-i': 'ih',  '*select-i-function*': 'textobj#syntax#select_i',
 \      }
 \    })
 
